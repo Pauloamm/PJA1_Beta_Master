@@ -1,2 +1,6 @@
-# PJA1_Beta_Master
- Here is the repository for the Beta and Master versions until release of the game
+# Perpetua Insanus
+ Here is the repository for the Perpetua Insanus, a Survival Horror Game.
+ 
+ This game was made as a project for college, having the duration of 3 months of development.
+ 
+ 
